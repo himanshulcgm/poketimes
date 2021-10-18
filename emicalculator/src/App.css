@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+  background: #eee;
+  padding: 20px;
+}
+.loanTable{
+  margin-top: 15px;
+}
+table{
+  margin: auto;
+}
